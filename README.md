@@ -1,0 +1,1 @@
+This project is a small python code which will give random values for food 
