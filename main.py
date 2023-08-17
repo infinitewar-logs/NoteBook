@@ -1,8 +1,6 @@
 import random
 
 print('hello Fucking GLOBEEEEEEEE')  # basics
-#whyLearnPython = ["Make India's IA","Make home auto mation","Make life plan based on the digital footprint"]
-#pythonThiSuThaiShake = ['Prediction ni maatee','BehaviourAnalytics maate','Setting market Trends']
 
 def getMoodFoodOfTheDay():
     userValue = input("Enter what type of food to consume : F for Fancy mood , N for Normal mood : ")
@@ -40,18 +38,7 @@ def getNormalFood():
     print("Bread of the day : " + getRandomDiet("IndianBread.txt"))
 
 
-getMoodFoodOfTheDay()   # This function will decide every Fucking day LUNCH scene
-
-
-
-
-
-
-
-
-
-
-
+getMoodFoodOfTheDay()   
 
 # Problem definition
 # Read from .properties file if py supports that
