@@ -1,6 +1,6 @@
 import random
 
-print('hello Fucking GLOBEEEEEEEE')  # basics
+print('Hello World !!!')  # basics
 
 def getMoodFoodOfTheDay():
     userValue = input("Enter what type of food to consume : F for Fancy mood , N for Normal mood : ")
